@@ -1,4 +1,6 @@
-/.github/
-/.idea/
 /Dockerfile
+/.dockerignore
+/.git/
+/.github/
 /.gitignore
+/.idea/
